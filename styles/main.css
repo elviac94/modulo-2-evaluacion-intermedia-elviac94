@@ -9,5 +9,14 @@
     width: 200px;
     display: flex;
     flex-direction: column;
+}
 
+.submit-button{
+    margin-top: 10px;
+    width: 100px;
+    border-radius: 10%;
+    padding: 5px;
+    border: none;
+    background-color: aqua;
+    color: azure;
 }
